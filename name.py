@@ -14,4 +14,17 @@ print(name.lower())
 
 # apparently lowercase is good for data storage!
 
+first_name = "ada"
+Last_name = "lovelace"
+full_name = f"{first_name} {Last_name}"
+print(f"Hello, {full_name.title()}!")
 
+# notice the F? this turns the string into a f-string (format string). it formats the info in the {} curly braces
+
+first_name = "ada"
+Last_name = "lovelace"
+full_name = f"{first_name} {Last_name}"
+message = f"Hello, {full_name.title()}!"
+print(message)
+
+# instead of printing the output, we store it in message and just print the message. much simpler and cleaner tbh
