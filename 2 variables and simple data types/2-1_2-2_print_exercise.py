@@ -11,4 +11,4 @@ as the above states, these are tests 2-1 and 2-2
 
 # 2-2
 # assign a message to a vairable, and print that message.
-# then change the value of the variable to a new message, and print the new message
+# then change the value of message, and print the new message
