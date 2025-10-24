@@ -41,6 +41,15 @@ print(f'this number was underscored {universe_age} works for integers and floats
 
 #multiple assignments
 # so adding multiple values to more then one variable in a single line
+print('\nMultiple Assignments')
 x, y, z = 1, 2, 3
-print(f'\nadding values to muliple variables in one line \nX = {x}\nY = {y}\nZ = {z}')
+print(f'adding values to muliple variables in one line \nX = {x}\nY = {y}\nZ = {z}')
+
+# constants is a variable whos value stays the same throughout the life of a program
+# a constant variable has a value that always stays the same, but python doesnt have a built in constant,
+# so developers just uppercase variable so it should be treated as constant and never changed
+print('\nConstants')
+MAX_HP = 100
+
+
 
