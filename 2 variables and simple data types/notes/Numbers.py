@@ -49,6 +49,7 @@ print(f'adding values to muliple variables in one line \nX = {x}\nY = {y}\nZ = {
 # a constant variable has a value that always stays the same, but python doesnt have a built in constant,
 # so developers just uppercase variable so it should be treated as constant and never changed
 print('\nConstants')
+print('see the code notes')
 MAX_HP = 100
 
 

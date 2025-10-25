@@ -1,0 +1,4 @@
+how to work with variables
+using strings
+integers and floats, what they mean
+comments and code philosophy.
