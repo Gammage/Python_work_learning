@@ -1,0 +1,7 @@
+a collection of items in a particular order. so naming convention make it plural. letters, names. bicycles etc.
+square brackets [] indicate a list
+see bicycles.py
+
+the bicycles.py file breaks down this with examples from the book.
+
+the motorcycles.py breaks down how to modify, add and remove elments or values in that list, using motorcycle brands/types. see the .py file in 3 lists > notes folder
