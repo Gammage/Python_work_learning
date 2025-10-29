@@ -30,6 +30,12 @@ motorcycles.append('yamaha')
 motorcycles.append('suzuki')
 print(motorcycles)
 
+# this is a good example of lists, because often they are empty at first
+
+# INSERTING a list item at a specific position
+print('\ninserting a list item at a specific position. see code how i insert at index 0, pushing other items back one index')
+motorcycles.insert(0, "ducati")
+# 0 is insert at begin, ducati is the new item
 
 
 
