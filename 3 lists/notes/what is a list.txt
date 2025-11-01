@@ -5,3 +5,5 @@ see bicycles.py
 the bicycles.py file breaks down this with examples from the book.
 
 the motorcycles.py breaks down how to modify, add and remove elments or values in that list, using motorcycle brands/types. see the .py file in 3 lists > notes folder
+
+cars_sorting_list.py goes into sorting a list, permenantly changing a list, reversing a list, finding the lenght of a list
