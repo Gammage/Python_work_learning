@@ -1,0 +1,12 @@
+chapter 4 is working with lists more indepth, such as looping.
+
+magicians.py is part of the reading that goes over loops.
+
+hello_world.py is indents unneccessarily, to see what happens
+
+making numerical lists refer to first_numbers.py in notes. range() function etc
+even_numbers.py continues this
+squre_numbers.py continues this 
+
+basically explaining how you can almost set any set of numbers using the range() function
+
