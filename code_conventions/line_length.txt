@@ -1,0 +1,9 @@
+each line less than 80 characters. 
+
+-reasons historically because small terminals
+-'pro' programmers often have several files open on the same screen, so more
+files on one screen
+
+PEP 8 limit comments to 72 characters per line
+
+

@@ -1,12 +1,25 @@
 chapter 4 is working with lists more indepth, such as looping.
+going over loops;
+magicians.py
 
-magicians.py is part of the reading that goes over loops.
+//examples of incorrect indents;//
+hello_world.py 
 
-hello_world.py is indents unneccessarily, to see what happens
-
-making numerical lists refer to first_numbers.py in notes. range() function etc
+//making lists of numbers using range();//
 even_numbers.py continues this
-squre_numbers.py continues this 
+square_numbers.py continues this, plus with list comprehensions (writing the same code in one line*)
 
-basically explaining how you can almost set any set of numbers using the range() function
+//simple statistics with list examples;//
+players.py
 
+//slicing a list;//
+players.py
+
+//copying a list;//
+foods.py
+
+*more advanced ways of writing lists, included because when looking at others code this will be used often from the book. 
+
+//tuples//
+creating a list that cannot change. python refers to values that cannot change as immutable, and an immutable list is called a tuple
+dimensions.py

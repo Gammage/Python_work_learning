@@ -1,0 +1,5 @@
+easy to read code is essential
+
+programmers agree on styling conventions.
+
+the style guide.txt

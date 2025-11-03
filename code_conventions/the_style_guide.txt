@@ -1,0 +1,11 @@
+when making a change to python language, they write a proposal;
+    Python Enhancement Proposal (PEP)
+        -book references PEP8
+
+//key points
+
+-between code thats easier to write or code thats easier to read,
+it is encouraged to write code easier to read.
+
+link: python.org/dev/peps/pep-0008
+

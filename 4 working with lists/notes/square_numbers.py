@@ -12,10 +12,17 @@
 # After the loop finishes, we print the final list of squared numbers.
 
 #the cleaner way for this
-squares = []
-for value in range(1,11):
-    squares.append(value**2)
-print(squares)
+# squares = []
+# for value in range(1,11):
+#     squares.append(value**2)
+# print(squares)
 
 #focus on writing code that makes sense first, then make it cleaner once it gets easier. the shorter version is better for big things but,
 #its the case of simplicity is beautiful.
+
+#LIST COMPREHENSION
+#advanced way of writing lists, people will use this often when writing code. get used to it, i guess?
+
+squares= [value**2 for value in range(1,11)]
+print(squares)
+

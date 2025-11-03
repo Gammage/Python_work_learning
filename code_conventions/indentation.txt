@@ -1,0 +1,9 @@
+//pep 8
+
+four spaces per indentation level (tab accomplishes this)
+    4
+
+python interpreter gets confused when tabs are mixed with spaces, text editor 
+(this one eg) converts tab to four spaces
+text editors convert tabs to spaces...
+
