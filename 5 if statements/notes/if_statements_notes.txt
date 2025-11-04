@@ -1,0 +1,19 @@
+if statements notes
+    an if statement allows to examine the current state of a program and
+    respond appriopiately to that state
+
+simple if statement example:
+cars.py
+
+conditional tests/equality operator:
+cars.py
+
+inequality operator:
+toppings.py
+
+numerical comparisons, and/or conditions:
+magic_number.py
+
+checking whether value is or is not IN a list:
+banned_users.py
+
