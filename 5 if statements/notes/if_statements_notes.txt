@@ -17,3 +17,19 @@ magic_number.py
 checking whether value is or is not IN a list:
 banned_users.py
 
+simple if statements:
+voting.py
+
+if-else statements:
+voting.py
+
+if-elif-else chain:
+amusement_park.py
+
+testing multiple conditions:
+toppings.py
+
+if statements with lists/using multiple lists:
+toppings.py
+
+
