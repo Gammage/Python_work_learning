@@ -1,0 +1,4 @@
+spaces between the following;
+if age < 4: is correct
+if age<4: is bad 
+
