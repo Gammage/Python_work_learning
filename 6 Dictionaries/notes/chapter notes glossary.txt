@@ -1,0 +1,30 @@
+This chapter is about dictionaries.
+- allow to connect pieces of information
+- dictionaties can store limitless amount of information
+
+//this chapter
+    -how to loop through a dictionary
+    -how to nest dictionaries in lists
+    -lists inside dictionaries
+    -dictionaries inside dictionaries. dictionception...asdl;askd
+
+understanding dictionaries allows to model a variety of real world objects
+accurately
+
+    -be able to create a dictionary representing a person and store as much
+    info as possible about that person. store 
+        -name
+        -age
+        -location
+        -profession
+        -any other aspect
+
+-essentially any 2 kinds of information that can be matched up
+    -a list of words
+    -meanings
+    -peoples names and favourite numbers
+    -list of mountains and their elevations
+    -ETCC
+
+A simple dictionary;
+alien.py
