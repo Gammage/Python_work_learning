@@ -28,3 +28,15 @@ accurately
 
 A simple dictionary;
 alien.py
+
+Adding into a dictionary;
+alien.py
+
+starting with an empty dictionary:
+alien.py
+
+Modifying values in a dictionary:
+alien.py
+
+removing key-value pairs (dictionary):
+alien.py
