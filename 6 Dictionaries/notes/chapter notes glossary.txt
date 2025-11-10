@@ -50,3 +50,12 @@ alien_no_points.py
 looping through a dictionary:
 user.py
 
+using Items() in dictionary:
+user.py
+
+using keys() in dictionary:
+user.py
+
+looping through a dictionary in particular order:
+user.py
+
