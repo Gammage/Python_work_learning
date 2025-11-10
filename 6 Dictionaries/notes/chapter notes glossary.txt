@@ -40,3 +40,13 @@ alien.py
 
 removing key-value pairs (dictionary):
 alien.py
+
+a dictionary of simliiar objects:
+favourite_languages.py
+
+using get() to access values:
+alien_no_points.py
+
+looping through a dictionary:
+user.py
+

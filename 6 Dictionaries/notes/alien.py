@@ -92,3 +92,16 @@ print(f'new position {alien_0["x_position"]}')
 #we then add the x_increement variable to the x_position by adding them to 
 #alien_0 x_position key
 
+#i mean if nothing else other then slow or medium it would go fast
+
+
+##Removing Key-value Pairs
+#when you don't need a piece of info in a dictionary deleted
+#note it removes permenantly
+print(f'\nDeleting key value information')
+alien_0 = {'color':'green','points':5}
+
+del alien_0['points']
+
+print(alien_0)
+
