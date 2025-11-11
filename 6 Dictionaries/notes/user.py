@@ -23,7 +23,7 @@
 #     print(f'{key}: {value}')
 
 # any name can be used in key and value eg.
-for k, v in user_0.items()
+# for k, v in user_0.items()
 
 # examples of this being affective can be seen in favourite_languages.py
 
@@ -102,12 +102,40 @@ favourite_languages = {
     'phil':'python',
 }
 
+print("\nusing sorted()")
 for name in sorted(favourite_languages.keys()):
-    print(f"\n{name.title()}, thankyou for taking the poll")
+    print(f"{name.title()}, thankyou for taking the poll")
     
 #sorted arranges the dictionary items in alphabetical order.
 
 
-##LOOPING THROUGH ALL VALUES IN A DICTIONARY##
+##LOOPING THROUGH ALL VALUES IN A DICTIONARY VALUES()##
+#for when you are interested in values of a dictionary, you can use values()
+#without any keys. eg, in example, if list of all languages in chosen in
+#programming language poll, without the name of the person who chose each language
 
+print("\nthe favourite languages in dictionary")
+for languages in favourite_languages.values():
+    print(f"{languages.title()}")
+    
+#this approach does not check repeats
+#apparently works well for small number of values, but in a large poll of results
+#would equal a very repetitive list
+
+#set() removes the repetition, or repeat values
+
+print("\nremoving the repetition on values")
+for languages in set(favourite_languages.values()):
+    print(f'{languages}')
+
+#identifies unique items in the values and builds a set from them
+#as learning python, you will find features of the language that will help you
+#do what you want with the data :)
+
+##easy to mistake sets with dictionaries. key difference is dictionaries contain
+#key value pairs, a key and a value.
+#set do no retain items in a specific order.
+
+set_languages = {'python','c','python','html'}
+print(set_languages)
 

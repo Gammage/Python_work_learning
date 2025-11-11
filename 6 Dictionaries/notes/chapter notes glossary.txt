@@ -59,3 +59,23 @@ user.py
 looping through a dictionary in particular order:
 user.py
 
+looping through all values in a dictionary values():
+user.py
+
+looping through all values in a dictionary removing rep set():
+user.py
+
+a list of dictionaries (nesting):
+aliens.py
+
+a list in a dictionary*:
+pizza.py
+
+a dictionary within a dictionary
+many_users.py
+
+*NEST LISTS AND dictionaries
+    You should not nest lists and dictionaries too deeply. if you're nesting Items
+    much deeper then this example then what you see in this example. if theres code
+    with significant nesting, theres most likely a simpler way to solve the problem
+

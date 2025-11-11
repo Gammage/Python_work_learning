@@ -31,3 +31,31 @@ print(f'Sarahs favourite language is {language}.')
 #we ask for her favourite language when defining the language variable
 #you can use this syntax with any individual represented in the dictionary
 
+
+##NESTED LISTS IN DICTIONARIES##
+#nested lists in dictionaries updated see below:
+
+favourite_languages = {
+    'jen':['python','rust'],
+    'sarah':['C'],
+    'edward':['rust','go'],
+    'phil': ['python','haskell'],
+}
+
+for name, languages in favourite_languages.items():
+    print(f"\n{name.title()}'s favourite languages are:")
+    for language in languages:
+        print(f"{language.title()}")
+        
+#created a new dictionary
+#assigned values as lists for keys that are names
+
+#created a for loop going through the name and languages in the dictionary
+#printed the names(keys) of the dictionary favourite_langauges
+#then created a for loop for the values in dictionary
+#printed the values/languages for each name
+
+#the variable is called languages because we know we are referencing a list/
+#multiple languages. naming is important
+
+##Important note##
