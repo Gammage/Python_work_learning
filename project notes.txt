@@ -1,5 +1,4 @@
 I aim to complete this book in 21 days from 01/11/2025
-this means 25 pages a day.
 
 01/11/2025 pg 45 - 
 02/11/2025 pg 58 - revisited previous pages 
@@ -10,3 +9,6 @@ this means 25 pages a day.
 08/11/2025 pg 92 - 
 09/11/2025 pg 99
 10/11/2025 pg 111
+11/11/2025 pg 113 - one page but 6 exercises
+    +started glossary of syntax.
+        To do: update from previous exercises

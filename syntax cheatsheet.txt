@@ -1,0 +1,19 @@
+enumerate(): works on lists, gives index number and item.
+    EG. for index, value in enumerate(my_list)
+
+.items(): Works on dictionaries, gives key and value.
+    EG. for key, value in my_dictionary.items()
+
+.append(): works on lists, add item to the end of a lists.
+    EG. current_list.append(new_list)
+
+.update(): works on dictionaries, merges all key-value pairs from other dictionary.
+    EG current_dict.update(added_dict)
+
+.sort(): used on LISTS ONLY. permenantly reorder the list
+    EG a_list.sort():
+
+.sorted(): used on any iterable list,dict,set. temporarily returns a new sorted version
+    EG. print(sorted(a_list_or_dict))
+
+    
