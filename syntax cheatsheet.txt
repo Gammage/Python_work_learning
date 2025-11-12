@@ -16,4 +16,34 @@ enumerate(): works on lists, gives index number and item.
 .sorted(): used on any iterable list,dict,set. temporarily returns a new sorted version
     EG. print(sorted(a_list_or_dict))
 
-    
+input(): lets the user type anything, and the text inside it guides what they should enter.
+    EG: message = input("tell me something, and i will repeat it back to you: ")
+        print(message)
+
+int(): convers an input string into a numerical value
+    EG: >>> age = input("how old are you?)
+        How old are you? 21
+        >>> age = int(age)
+        >>> age >= 18
+        True
+
+type(): tells you what kind of value something is - string, number, list etc.
+    EG: >>> name = 'ben'
+        >>> print(type(name))
+        <class str>
+
+//Operators//
++=: add this to whats already there
+    EG: >>> message = "hello"
+        >>> message += "world"
+        message becomes "hello world"
+
+%: Modulo operator: divides one number to another and gives remainder*.
+    EG: >>> 4 % 3
+        1
+        >>> 5 % 3
+        2
+        >>> 6 % 3
+        0
+
+        *if you want to tell if something is even, there wont be a remainder

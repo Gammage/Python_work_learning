@@ -1,0 +1,17 @@
+How the input() function works:
+parrot.py
+
+Writing clear prompts:
+greeter.py
+
+using int() to accept numerical input:
+greeter.py
+
+using type() to find out the data type of a value:
+greeter.py
+
+int() continued:
+rollercoaster.py
+
+int() using the modulo operator:
+even_or_odd.py
