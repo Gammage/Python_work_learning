@@ -15,3 +15,15 @@ rollercoaster.py
 
 int() using the modulo operator:
 even_or_odd.py
+
+introducing while loops:
+counting.py
+
+letting the user choose when to quit:
+parrot.py
+
+using break to exit a loop
+cities.py
+
+Using continue in a loop
+counting.py

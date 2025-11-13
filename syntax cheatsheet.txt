@@ -32,6 +32,16 @@ type(): tells you what kind of value something is - string, number, list etc.
         >>> print(type(name))
         <class str>
 
+while(): the while loop runs as long as or while, a certian condition is True
+    EG >>> while number <= 5
+       >>> print(number)
+       >>> number += 1
+       1
+       2
+       3
+       4
+       5
+
 //Operators//
 +=: add this to whats already there
     EG: >>> message = "hello"
@@ -47,3 +57,22 @@ type(): tells you what kind of value something is - string, number, list etc.
         0
 
         *if you want to tell if something is even, there wont be a remainder
+
+Loop-control statements
+break: when the loop should stop at a specific moment/statement
+    EG: exit loop at specific event
+        multiple exit conditions
+        simple scripts and input loops
+
+continue: returns to the beginning of the statement, based on conditional test.
+ends the current iteration of the loop
+    EG: 
+
+
+Rule of thumb
+
+boolean flag :when the loop resents an ongoing state (Active vs inactive)
+    EG: representing a running state
+        more readable logic at the top of loop
+
+
