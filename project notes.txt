@@ -14,3 +14,4 @@ I aim to complete this book in 21 days from 01/11/2025
         To do: update from previous exercises
 12/11/2025 pg 117
 13/11/2025 pg 124. 4 exercises using input/while loops
+14/11/2025 pg 141 

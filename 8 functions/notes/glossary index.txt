@@ -1,0 +1,32 @@
+Defining a function:
+greeter.py
+
+Passing information to a function:
+greeter.py
+
+passing/positional arguments:
+pets.py
+
+multiple function calls:
+pets.py
+
+default values:
+pets.py
+
+equivalent function calls:
+pets.py
+
+avoiding argument errors:
+pets.py
+
+return values:
+formatted_name.py
+
+making an argument optional:
+formatted_name.py
+
+returning a dictionary:
+person.py
+
+using a function with a while loop:
+greeter.py

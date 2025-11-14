@@ -16,6 +16,9 @@ enumerate(): works on lists, gives index number and item.
 .sorted(): used on any iterable list,dict,set. temporarily returns a new sorted version
     EG. print(sorted(a_list_or_dict))
 
+.remove(): used to remove a specific item list,set,file etc.
+    EG. >>> my_list.remove('list item')
+
 input(): lets the user type anything, and the text inside it guides what they should enter.
     EG: message = input("tell me something, and i will repeat it back to you: ")
         print(message)
@@ -68,6 +71,7 @@ continue: returns to the beginning of the statement, based on conditional test.
 ends the current iteration of the loop
     EG: 
 
+return: 
 
 Rule of thumb
 
@@ -75,4 +79,22 @@ boolean flag :when the loop resents an ongoing state (Active vs inactive)
     EG: representing a running state
         more readable logic at the top of loop
 
+def: defines a function,
+    EG: >>> def greet_user():
+        >>>     print("hello")
+        >>> greet_user()
 
+parameter: a piece of information the function needs to do its job. in below,
+username would be the parameter.
+    EG: >>> def greet_user(username)
+        >>>     print("hello")
+        >>> greet_user()
+
+Argument: an argument is a piece of information thats called from a function call
+to a function. the argument below is bob, assigned to the paramer username
+    EG: >>> def greet_user(username)
+        >>>     print(f"hello {username}")
+        >>> greet_user(bob)
+
+
+          

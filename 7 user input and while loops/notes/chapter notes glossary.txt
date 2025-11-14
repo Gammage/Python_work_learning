@@ -22,8 +22,18 @@ counting.py
 letting the user choose when to quit:
 parrot.py
 
-using break to exit a loop
+using break to exit a loop:
 cities.py
 
-Using continue in a loop
+Using continue in a loop:
 counting.py
+
+using a while loop with lists and dictionaries:
+confirmed_users.py
+
+removing all instances of specific values from a list:
+pets.py
+
+filling a dictionary with user input:
+mountain_poll.py
+
