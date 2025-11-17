@@ -1,0 +1,8 @@
+class basics:
+dog.py
+
+creating/using a class:
+dog.py
+
+the __init__()method:
+dog.py

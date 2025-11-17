@@ -1,0 +1,15 @@
+functions should have descriptive names
+    using lowercase and underscores
+
+descriptive names help you and others understand what your code is trying to do
+
+every function should have a comment that explains precisely what it does
+    using docstring in the function
+
+if you specifiy a default  value for a parameter, no spaces either side of = sign;
+    eg: def function_name(parameter_0, parameter_1='default value')
+
+same convention should be used for keyword arguments in function calls
+    eg: function name(value_0, paramter_1='value)
+
+

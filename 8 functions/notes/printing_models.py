@@ -64,3 +64,33 @@ show_completed_models(completed_models)
 #tasks, try split the code into two functions.
 #you can always call a function from another function
 
+##Preventing a Function from modifying a list
+#Sometimes you will want to prevent a function from modifying a list
+#eg, with a list of unprinted designs, the function to move them to a list
+#of completed models as in the previous example
+    #even though you've printed all the designs, you want to keep the orginal
+    #list of unprinted designs for your records
+    
+#if you wanted to keep the original list, you would need to copy it first, and
+#use that copy.
+
+#any changes the function makes to the list will affect only the copy, leaving
+#the original list intact. you could copy the list in the functions argument eg;
+
+# function_name(list_name[:])
+
+#slice notation copys the list
+
+#another example
+
+# print_models(unprinted_designs[:], completed_models)
+
+#this would work, its given an argument for the parameter but the argument is the
+#copied list
+#there should be a specific reason why you do this, otherwise normally pass the 
+#original list - avoids using time and memory needed to make a seperate copy,
+#this would be very impactful on larger lists etc.
+
+
+
+

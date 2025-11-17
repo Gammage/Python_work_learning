@@ -84,6 +84,11 @@ def: defines a function,
         >>>     print("hello")
         >>> greet_user()
 
+__init__() method: a special method that python runs automatically whenever we create
+a new instance based on the class
+    EG: //clean up example when better understanding//
+
+
 parameter: a piece of information the function needs to do its job. in below,
 username would be the parameter.
     EG: >>> def greet_user(username)

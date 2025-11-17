@@ -36,3 +36,31 @@ greet_users.py
 
 modifying a list in a function:
 printing_models.py 
+
+preventing a  function from modifying a list:
+printing_models.py
+
+passing an arbitrary number of arguments:
+pizza.py
+
+Mixing positional and arbitrary arguments:
+pizza.py
+
+using arbitrary keyword arguments:
+user_profile.py
+
+storing your functions as modules:
+pizza.py
+
+importing an entire module:
+pizza.py/making_pizzas.py
+
+Importing specific functions:
+making_pizzas.py
+
+using as to give a function on alias:
+making_pizzas.py
+
+importing all functions in a module:
+making_pizzas.py
+
