@@ -28,7 +28,7 @@ class Dog:
         
     def roll_over(self):
         """simulate rolling over in response to a command"""
-        print(f"{self.name}rolled over!")
+        print(f"{self.name} rolled over!")
 
 #classes are defined by capitalisation in python conventionally
 #theres no paranthesis around the class definition because we are creating this class
@@ -62,8 +62,81 @@ class Dog:
     #n_sweep
         #attribute is to variable as method is to function
         #age = 10 is a variable, my_dog.age = 10 is an attribute
-        #just like a method vs a function - a method IS just a function, but in a class
+        #just like a method is a function - a method IS just a function, but in a class
         #an attribute is a variable, but in a class
+
+##MAKING AN INSTANCE FROM A CLASS##
+#think of a class as a set of instructions for how to make an instance.
+#the dog class is a set of instructions that tells python how to make individual instances
+#representing specific dogs
+
+#to make an instance representing a dog;
+
+# my_dog = Dog('willie',6)
+
+# print(f"my dog's name is {my_dog.name}.")
+# print(f"my dog is {my_dog.age} years old")
+
+#here we tell python to create a dog whos name is willie and age is 6,
+#when python reads this line, it calls the __init__() method when python reads
+#in dog with the arguments willie and 6. the __init__() method creates an instance
+#representing this dog. we assign that instance to the variable my_dog
+#naming convention is useful here, we can usually assume that a capitalised name
+#refers to a class, and a lowercase name like my_dog refers to a single instance
+#created from a class
+
+##ACCESSING ATTRIBUTES##
+#to access attributes of an instance, we use dot notation. we access the value
+#of my_dogs attribute name by writing:
+
+# my_dog.name
+
+#dot notation is used often in python. This syntax demonstrates how python finds
+#an attributes value. Here, python looks at the instance my_dog and then finds
+#the attribute name associated with my_dog. this is the same attribute referred
+#to as self.name in the class dog
+#same approach to age
+
+##CALLING METHODS##
+#we use dot notation to call any method defined in dog
+
+# my_dog.sit()
+# my_dog.roll_over()
+
+#to call a method, give the name of instance (my_dog) and the method, seperated 
+#by a dot. when python reads my_dog.sit(), it looks for the method sit in the
+#class dog and runs that code. python interprets the line my_dog.roll_over in the
+#same way
+
+#syntax is quite useful, when attributes and methods have been given appriopiate
+#descriptive names like name,age,sit() and roll_over(), we can easily infer what
+#a block of code,even one we've never seen before, is supposed to do 
+
+##CREATING MULTIPLE INSTANCES##
+
+my_dog = Dog('willie',6)
+your_dog = Dog('lucie',3)
+
+print(f"My dog's name is {my_dog.name}")
+print(f"my dog is {my_dog.age} years old")
+my_dog.sit()
+
+print(f"your dog's name is {your_dog.name}")
+print(f"your dog is {your_dog.age} years old")
+your_dog.sit()
+
+#in this example we create a dog named willie and a dog named lucy
+#each dog is a seperate instance with its own set of attributes, capable of the same
+#set of actions
+
+#even if we used the same name and age for the second dog, python would still
+#create a seperate instance from the dog class. you can make as many instances
+#from one class as you need, as long as you give each instance a unique variable
+#name or it occupies a unique spot in a list or dictionary
+
+
+
+
 
 
 

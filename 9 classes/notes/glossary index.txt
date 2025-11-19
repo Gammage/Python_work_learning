@@ -6,3 +6,24 @@ dog.py
 
 the __init__()method:
 dog.py
+
+making an instance from a class:
+dog.py
+
+accessing attributes:
+dog.py
+
+calling methods:
+dogs.py
+
+creating multiple instances:
+dogs.py
+
+working with classes and instances:
+car.py
+
+setting a default value for an attribute:
+car.py
+
+modifying attribute values:
+car.py
