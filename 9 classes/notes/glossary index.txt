@@ -27,3 +27,9 @@ car.py
 
 modifying attribute values:
 car.py
+
+inheritence:
+electric_car.py
+
+importing classes
+car_import.py/my_car.py
