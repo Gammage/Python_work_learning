@@ -33,3 +33,9 @@ electric_car.py
 
 importing classes
 car_import.py/my_car.py
+
+using aliases:
+my_car.py
+
+python standard library modules:
+python_modules.py
