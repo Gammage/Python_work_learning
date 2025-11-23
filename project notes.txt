@@ -22,7 +22,8 @@ I aim to complete this book in 21 days from 01/11/2025
 18/11/2025 pg 164
 19/11/2025 pg 174
 20/11/2025 -had a break-
-21/11/2025 pg 
+21/11/2025 184
+22/11/2025 192
 
 material recommended by viewers:
 Simplprogrammer: refactor gurus website, roadmap.sh = good to get learning plans
@@ -30,6 +31,9 @@ for tech stacks
 multiple viewers: obsidian for notes
 saucechord: jupyter notebooks
 beautifulsoup: Selenium - browser emulator
+vivax_dev: https://craftinginterpreters.com/contents.html
+
+
 
 REVISIT:
 9 classes, 9-8 privileges, using classes for attributes, with subclasses etc

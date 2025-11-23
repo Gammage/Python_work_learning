@@ -1,0 +1,3 @@
+in python you can create lists and variables
+in python you can use oop using classes to create instances of objects
+in python you can build stuff

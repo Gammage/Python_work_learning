@@ -1,0 +1,26 @@
+in this chapter, as we are handling files, see chapter_notes, respective to the
+index displayed below
+
+reading from a file:
+pi_digits.txt/file_reader.py
+
+relative and absolute file paths:
+file_reader.py
+
+accessing a files lines:
+file_reader.py
+
+working with a files contents
+file_reader.py
+
+writing to a file:
+write_message.py
+
+writing multiple lines:
+write_message.py
+
+
+
+
+
+
