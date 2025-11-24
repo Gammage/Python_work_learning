@@ -24,6 +24,7 @@ I aim to complete this book in 21 days from 01/11/2025
 20/11/2025 -had a break-
 21/11/2025 184
 22/11/2025 192
+23/11/2025 202
 
 material recommended by viewers:
 Simplprogrammer: refactor gurus website, roadmap.sh = good to get learning plans

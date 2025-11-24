@@ -21,6 +21,8 @@ Chapter intro:
 reading from a file:
 pi_digits.txt
 
-accessing a files lines
+accessing a files lines:
 file_reader.py
 
+storing data:
+number_writer.py

@@ -19,6 +19,44 @@ write_message.py
 writing multiple lines:
 write_message.py
 
+Exceptions:
+division_calculator.py
+
+Using eceptions to Prevent crashes:
+division_calculator.py
+
+handling the FileNotFoundError Exception:
+alice.py
+
+analyzing text:
+alice.py
+
+working with multiple files:
+word_count.py
+
+failing silently:
+word_count.py
+
+deciding which errors to report:
+word_count.py
+
+storing data:
+number_writer.py
+
+Storing data:
+    using json.dumps()
+    number_writer.py
+
+    using json.loads()
+    number_reader.py
+
+saving and reading user-generated data:
+rememeber_me.py
+
+greeting user with info already stored:
+greet_user.py
+
+
 
 
 
