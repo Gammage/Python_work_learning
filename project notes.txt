@@ -25,6 +25,7 @@ I aim to complete this book in 21 days from 01/11/2025
 21/11/2025 184
 22/11/2025 192
 23/11/2025 202
+24/11/2025 206 - Revisit 10-12 rubber duck it for 25/11/2025
 
 material recommended by viewers:
 Simplprogrammer: refactor gurus website, roadmap.sh = good to get learning plans
@@ -33,6 +34,8 @@ multiple viewers: obsidian for notes
 saucechord: jupyter notebooks
 beautifulsoup: Selenium - browser emulator
 vivax_dev: https://craftinginterpreters.com/contents.html
+rukiducky: (book) learning python by Oreilly
+konosubalife: automate the boring stuff with python
 
 
 
