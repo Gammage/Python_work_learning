@@ -1,0 +1,11 @@
+testing a function
+name_function.py/names.py
+
+a passing test:
+test_name_function.py
+
+running a test:
+test_name_function.py
+
+responding to a failed test:
+name_function.py
