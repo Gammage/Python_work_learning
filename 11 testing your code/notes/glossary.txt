@@ -9,3 +9,12 @@ test_name_function.py
 
 responding to a failed test:
 name_function.py
+
+testing a class
+survey.py/language_survey.py
+
+test the anonymoussurvey class (language_survey.py):
+test_survey.py
+
+using fixtures:
+test_survey.py
