@@ -29,7 +29,10 @@ I aim to complete this book in 21 days from 01/11/2025
 25/11/2025 break
 26/11/2025 217
 27/11/2025 225
-28/11/2025 SEE DJANGO PROJECT (PG 373)
+28/11/2025 SEE DJANGO PROJECT seperate github (private) (PG 373)
+29/11/2025 break
+30/11/2025 388
+
 
 material recommended by viewers:
 Simplprogrammer: refactor gurus website, roadmap.sh = good to get learning plans
@@ -41,9 +44,7 @@ vivax_dev: https://craftinginterpreters.com/contents.html
 rukiducky: (book) learning python by Oreilly
 konosubalife: automate the boring stuff with python
 charzard1223 - shce https://github.com/Charzard1332/SHCE
+terrakode - pythonanywhere (deploy django backend on cloud)
+noirpi - https://dbeaver.io/ modifying sqlite file etc
 
-
-
-REVISIT:
-9 classes, 9-8 privileges, using classes for attributes, with subclasses etc
 
