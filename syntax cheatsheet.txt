@@ -30,6 +30,10 @@ int(): convers an input string into a numerical value
         >>> age >= 18
         True
 
+range(5)*: gets a range of numbers from inside parenthesis
+*0,1,2,3,4 < 5 numbers total
+doesnt include last number as we inc 0
+
 type(): tells you what kind of value something is - string, number, list etc.
     EG: >>> name = 'ben'
         >>> print(type(name))
