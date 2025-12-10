@@ -34,6 +34,10 @@ range(5)*: gets a range of numbers from inside parenthesis
 *0,1,2,3,4 < 5 numbers total
 doesnt include last number as we inc 0
 
+range(start, stop) is left inclusive and right exclusive.
+It includes 'start' but does NOT include 'stop'.
+You only add +1 to 'stop' if you want the final number included.
+
 type(): tells you what kind of value something is - string, number, list etc.
     EG: >>> name = 'ben'
         >>> print(type(name))
