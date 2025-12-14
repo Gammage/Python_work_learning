@@ -1,6 +1,16 @@
 enumerate(): works on lists, gives index number and item.
     EG. for index, value in enumerate(my_list)
 
+    names = ["Alice", "Ben", "Charlie"]
+
+    for i, name in enumerate(names):
+        print(i, name)
+
+        0 Alice
+        1 Ben
+        2 Charlie
+
+
 .items(): Works on dictionaries, gives key and value.
     EG. for key, value in my_dictionary.items()
 
