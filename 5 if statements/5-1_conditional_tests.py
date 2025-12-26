@@ -6,7 +6,7 @@ if jungler == 'annie':
     print('true')
 
 if jungler != 'annie':
-    print('annie is not a jungler')
+    print(f"{jungler} is not annie")
     
 if jungler == 'shaco':
     print('shaco is a jungler')
